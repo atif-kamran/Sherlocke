@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 I AM THE LORD OF GIJJU!
 
 Favorite Movie: Batman
-=======
->>>>>>> parent of 8ff02cb... added bio to aboutMe
